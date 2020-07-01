@@ -58,7 +58,7 @@ INSTALLATION :
 to unpack the installation. This will create a set of directories
 under the root directory 'predSS'.
 
-Go in to directory predSS. In file 'Makefile' change the setting for variable
+Go to directory predSS. In file 'Makefile' change the setting for variable
 RBIN to reflect the local R installation (this is the only change to
 be done). 
 
@@ -121,4 +121,3 @@ Within an R session, do :
        run_basic_cox_cv_with_cov_single(cmd);
        # ...........................................................................................................................
 
-# =============================================================================================================================
