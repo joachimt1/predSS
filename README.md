@@ -1,8 +1,15 @@
 # predSS
 Predictive signatures for patient survival based on gene expression data.
+#
+=============================================================================================================================
+. predSS : Predictive Signatures for Survival analysis functions
+. ------
+.
+. INSTALLATION & RUNNING MANUAL
+. Version 1.0 (July 1 2020)
+. Joachim Theilhaber
+=============================================================================================================================
 
-==================================================
-predSS : Predictive Signatures for Survival analysis functions
 
 
 INSTALLATION & RUNNING MANUAL
